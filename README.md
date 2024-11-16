@@ -42,6 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![Screenshot 2024-11-07 093832](https://github.com/user-attachments/assets/bdfea89c-a12d-488f-b2df-7bc37a318108)
 
 
 ## RESULT
